@@ -1,2 +1,0 @@
-[12-Aug-2015 12:21:20 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_554af33274f2b9.68269152/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
-[12-Aug-2015 12:27:43 Europe/Berlin] PHP Fatal error:  Class 'AuthProviderExtraDetails' not found in C:\xampp\htdocs\orangehrm-3.3.1\symfony\plugins\orangehrmOpenidAuthenticationPlugin\lib\form\AuthProviderExtraDetailsForm.php on line 56
